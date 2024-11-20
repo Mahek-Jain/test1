@@ -6,7 +6,7 @@ This repository contains Part 1 and Part 2 of the assignment. The project demons
 
 ### Project Structure
 
-`src/components/`:
+`src/components/`: \
 This directory contains reusable UI components.
 
 `TreeMenu.js`: \
