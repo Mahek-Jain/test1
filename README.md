@@ -20,6 +20,9 @@ Manages nested nodes and propagates the correct open state for each child.
 Responsible for displaying individual nodes. \
 Handles click interactions to expand or collapse a particular node and pass down the relevant data to children.
 
+`Modal.jsx`: \
+Component to display the clicked tree item in a modal dialog box (popup).
+
 `src/index.css`: \
 Contains all of the styles needed for the application. \
 Styles for the tree navigation, modal and other UI elements are defined here. 
