@@ -7,7 +7,7 @@ This repository contains Part 1 and Part 2 of the assignment. The project demons
 ### Installation
 
 Clone the repository: \
-`git clone https://github.com/yourusername/react-app-assignment.git` 
+`git clone https://github.com/Mahek-Jain/test1.git` 
 
 Navigate to the project directory: \
 `cd test1` 
